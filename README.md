@@ -1,4 +1,4 @@
-Project: E-Commerce Sales & Returns Analysis
+Project: E-Commerce Sales & Returns Risk Analysis
 
 Problem
 High product return rates were reducing revenue and affecting overall profitability.
