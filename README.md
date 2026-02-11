@@ -13,7 +13,7 @@ Power BI, Python, Excel
 UK Online Retail transactional dataset including sales and return records.
 
 
-Approach
+Approach :
 
 Cleaned data by removing errors, handling missing values, and creating calculated fields like Total Sales and Return flags.
 
@@ -26,7 +26,7 @@ Segmented products into price bands (Low, Mid, Premium) to study pricing impact 
 Performed product-level analysis to identify items with unusually high return frequency.
 
 
-Dashboard Includes
+Dashboard Includes :
 
 * Revenue & performance KPIs
 
@@ -42,7 +42,7 @@ Dashboard Includes
 
 
 
-Key Insights
+Key Insights :
 
 * Premium products have the highest return rate.
 
@@ -53,7 +53,7 @@ Key Insights
 
 
 
-Business Impact
+Business Impact :
 
 * Improve descriptions and visuals for premium items.
 
