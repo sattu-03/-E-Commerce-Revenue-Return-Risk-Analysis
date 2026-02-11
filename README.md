@@ -1,19 +1,19 @@
 Project: E-Commerce Sales & Returns Risk Analysis
 
-* Problem
+* Problem :
 High product return rates were reducing revenue and affecting overall profitability.
 
-* Goal
+* Goal :
 Identify return drivers and quantify revenue leakage to support better business decisions.
 
-* Tools Used
+* Tools Used :
 Power BI, Python, Excel
 
-* Dataset
+* Dataset :
 UK Online Retail transactional dataset including sales and return records.
 
 
-* Approach
+Approach
 
 Cleaned data by removing errors, handling missing values, and creating calculated fields like Total Sales and Return flags.
 
