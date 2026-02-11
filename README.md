@@ -1,18 +1,19 @@
 Project: E-Commerce Sales & Returns Risk Analysis
 
-Problem
+* Problem
 High product return rates were reducing revenue and affecting overall profitability.
 
-Goal
+* Goal
 Identify return drivers and quantify revenue leakage to support better business decisions.
 
-Tools Used
+* Tools Used
 Power BI, Python, Excel
 
-Dataset
+* Dataset
 UK Online Retail transactional dataset including sales and return records.
 
-Approach
+
+* Approach
 
 Cleaned data by removing errors, handling missing values, and creating calculated fields like Total Sales and Return flags.
 
@@ -24,34 +25,40 @@ Segmented products into price bands (Low, Mid, Premium) to study pricing impact 
 
 Performed product-level analysis to identify items with unusually high return frequency.
 
+
 Dashboard Includes
 
-Revenue & performance KPIs
+* Revenue & performance KPIs
 
-Monthly sales vs return trends
+* Monthly sales vs return trends
 
-Return rate analysis
+* Return rate analysis
 
-High-risk product identification
+* High-risk product identification
 
-Country-wise sales performance
+* Country-wise sales performance
 
-Price band return behavior
+* Price band return behavior
+
+
 
 Key Insights
 
-Premium products have the highest return rate.
+* Premium products have the highest return rate.
 
-A small number of products account for most returns.
+* A small number of products account for most returns.
 
-Returns show seasonal spikes.
+* Returns show seasonal spikes.
+
+
+
 
 Business Impact
 
-Improve descriptions and visuals for premium items.
+* Improve descriptions and visuals for premium items.
 
-Strengthen packaging and quality control.
+* Strengthen packaging and quality control.
 
-Monitor and manage high-return products.
+* Monitor and manage high-return products.
 
-Plan operations around seasonal return peaks.
+* Plan operations around seasonal return peaks.
